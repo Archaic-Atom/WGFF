@@ -1,0 +1,8 @@
+gradio
+accelerate
+einops
+pytorch-lightning
+omegaconf
+Pywavelets
+transformers
+open_clip_torch
