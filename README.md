@@ -5,8 +5,8 @@
   Xing Li<sup>1,*</sup>,
   Wenxiong Zhou<sup>1</sup>,
   Zhibo Rao<sup>1</sup>,
-  Leqi Jiang<sup>2</sup>,
-  Chao HE<sup>1</sup>,
+  Leqi Jiang<sup>1</sup>,
+  Chao He<sup>1</sup>,
 </p>
 
 <p align="center">
@@ -25,6 +25,10 @@
 ## 🖼️ Overview
 Wavelet-Guided Feature Fusion (WGFF) is a text-driven image translation framework without training
 or finetuing. You can edit the image though your prompt.
+
+<p align="center">
+  <img src="assets/Pipeline.png">
+</p>
 
 ## ⚡ Quick Start
 
