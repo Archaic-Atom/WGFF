@@ -44,7 +44,7 @@ pip install -r requirements.txt
 
 ### 2. Models
 Download the weight from [v1.5 weight](https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/blob/main/v1-5-pruned-emaonly.ckpt)  
-Put the `v1-5-pruned-emaonly.ckpy` under the folder `models`
+Put the `v1-5-pruned-emaonly.ckpt` under the folder `models`
 
 ### 3. Run
 ```
